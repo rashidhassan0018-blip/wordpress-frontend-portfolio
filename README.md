@@ -1,56 +1,51 @@
-# 🚀 WordPress & Frontend Developer Portfolio
+# 🚀 Mohd Rashid Ansari | Full Stack Developer
 
-> Modern, responsive, and performance-optimized portfolio website for **Mohd Rashid Ansari** — WordPress & Frontend Developer.
-
----
-
-## 🌟 Overview
-
-This repository showcases my expertise in **WordPress customization**, **Elementor page building**, **responsive frontend development (HTML5/CSS3/JavaScript)**, and **mobile-first performance optimization**.
-
-### 🛠️ Tech Stack & Skills
-- **CMS & Builders:** WordPress, Elementor / Elementor Pro, WooCommerce
-- **Frontend Core:** HTML5, CSS3 (Modern Flexbox & Grid), JavaScript (ES6+)
-- **Design & Performance:** Responsive Web Design, Mobile Layout Optimization, Core Web Vitals, UI/UX Principles
-- **Tools:** Git, GitHub, VS Code
+> Full Stack Web Developer specializing in **Frontend (React, JavaScript, HTML5/CSS3)**, **Backend (Node.js, Express, REST APIs)**, **Databases (MongoDB, MySQL)**, and **WordPress / CMS Solutions**.
 
 ---
 
-## 📱 Key Features
-- **100% Mobile Responsive:** Fluid layouts designed to look stunning on phones, tablets, and desktop displays.
-- **Interactive Project Showcase:** Filter projects dynamically by categories (WordPress, Landing Pages, Frontend UI).
-- **Modern UI/UX Aesthetic:** Clean typography, glassmorphism elements, subtle animations, and accessible contrast ratios.
-- **Lightweight & Fast:** Zero heavy dependencies for blazing-fast load times.
-- **Working Contact Section:** Form validation and interactive status feedback.
+## 🌟 About Me
+I build scalable, end-to-end web applications and high-converting web interfaces. With strong expertise across both client-side interactivity and server-side architecture, I ensure optimal performance, security, and responsive design across all devices.
 
 ---
 
-## 📂 Project Structure
-```text
-wordpress-frontend-portfolio/
-├── index.html        # Main semantic HTML structure
-├── style.css         # Modern design tokens & responsive CSS
-├── script.js         # Navigation, filter logic & form handlers
-└── README.md         # Project documentation & overview
+## 🛠️ Tech Stack & Capabilities
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Flexbox/Grid, Responsive UI/UX |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication, Middleware Architecture, PHP |
+| **Databases** | MongoDB (Mongoose), MySQL, Relational & NoSQL Schema Design, Query Optimization |
+| **CMS & E-Commerce** | WordPress, Elementor / Elementor Pro, WooCommerce, Theme/Plugin Customization |
+| **Tools & Workflow** | Git, GitHub, Postman, VS Code, Chrome DevTools, Mobile Layout Optimization |
+
+---
+
+## 📱 Featured Project Showcases
+- **⚡ Cloud Task & Collaboration App (MERN Stack):** Real-time CRUD operations, JWT authentication, and dashboard UI.
+- **🛍️ Modern E-Commerce Storefront:** Dynamic product filtering, shopping cart state management, and checkout UI.
+- **🛡️ Secure RESTful API Engine:** Modular backend API with validation middleware, error handling, and rate limiting.
+- **🏢 Enterprise Agency Platform:** High-converting responsive corporate site with WordPress & Elementor.
+
+---
+
+## 🚀 Running the Project Locally
+
+```bash
+# 1. Clone the repository
+git clone git@github.com:rashidhassan0018-blip/wordpress-frontend-portfolio.git
+
+# 2. Navigate to directory
+cd wordpress-frontend-portfolio
+
+# 3. Open in browser
+open index.html
 ```
 
 ---
 
-## 🚀 Getting Started Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone git@github.com:rashidhassan0018-blip/wordpress-frontend-portfolio.git
-   cd wordpress-frontend-portfolio
-   ```
-
-2. **Open the project:**
-   Simply open `index.html` in your favorite web browser!
-
----
-
-## 📬 Contact & Connect
-- **Name:** Mohd Rashid Ansari
+## 📬 Connect with Me
+- **Portfolio:** [https://rashidhassan0018-blip.github.io/wordpress-frontend-portfolio/](https://rashidhassan0018-blip.github.io/wordpress-frontend-portfolio/)
 - **Email:** [rashidhassan0018@gmail.com](mailto:rashidhassan0018@gmail.com)
 - **GitHub:** [@rashidhassan0018-blip](https://github.com/rashidhassan0018-blip)
-- **Status:** Open to WordPress & Frontend Developer Internship and Full-Time roles.
+- **Status:** Open to Full Stack, Frontend, and Web Development Opportunities & Internships.
